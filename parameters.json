@@ -39,13 +39,13 @@
         "value": 127
       },
       "fslogixScriptURI": {
-        "value": "https://stagingsarohanlab.blob.core.windows.net/scripts/SetupFSLogix.ps1"
+        "value": "https://raw.githubusercontent.com/rohanislam2/rohanlab-azureImageBuilder/main/scripts/SetupFSLogix.ps1"
       },
       "OptimizeOsScriptURI": {
-        "value": "https://stagingsarohanlab.blob.core.windows.net/scripts/OptimizeOS.ps1"
+        "value": "https://raw.githubusercontent.com/rohanislam2/rohanlab-azureImageBuilder/main/scripts/OptimizeOS.ps1"
       },
       "teamsScriptURI": {
-        "value": "https://stagingsarohanlab.blob.core.windows.net/scripts/SetupTeams.ps1"
+        "value": "https://raw.githubusercontent.com/rohanislam2/rohanlab-azureImageBuilder/main/scripts/SetupTeams.ps1"
       }
     }
   }
