@@ -1,2 +1,2 @@
 # rohanlab-azureImageBuilder
-Build VM images using Azure Image Builder and Bicep
+Build OS Images using Azure VM Image Builder and Bicep
