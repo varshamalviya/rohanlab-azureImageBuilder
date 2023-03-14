@@ -1,3 +1,4 @@
+param storagePrefix string
 param imageTemplateName string
 param location string
 param identityName string
