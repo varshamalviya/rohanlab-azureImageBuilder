@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "resourceGroupName": {
-            "value": "rohanlab-avdimage-rg-01"
+            "value": "rg-avdaib-prd-we-01"
         },
       "location": {
         "value": "West Europe"
       },
       "identityName": {
-        "value": "rohanlab-aibidntity-01"
+        "value": "id-avdaib-prd-we-01"
       },
       "computeGalleryName": {
-        "value": "rohanlabacg01"
+        "value": "acg_avd_prd_we_01"
       },
       "imageDefinitionName": {
         "value": "wind10avd"
@@ -39,13 +39,13 @@
         "value": 127
       },
       "fslogixScriptURI": {
-        "value": "https://raw.githubusercontent.com/rohanislam2/rohanlab-azureImageBuilder/main/scripts/SetupFSLogix.ps1"
+        "value": "https://raw.githubusercontent.com/varshamalviya/rohanlab-azureImageBuilder/main/scripts/SetupFSLogix.ps1"
       },
       "OptimizeOsScriptURI": {
-        "value": "https://raw.githubusercontent.com/rohanislam2/rohanlab-azureImageBuilder/main/scripts/OptimizeOS.ps1"
+        "value": "https://raw.githubusercontent.com/varshamalviya/rohanlab-azureImageBuilder/main/scripts/OptimizeOS.ps1"
       },
       "teamsScriptURI": {
-        "value": "https://raw.githubusercontent.com/rohanislam2/rohanlab-azureImageBuilder/main/scripts/SetupTeams.ps1"
+        "value": "https://raw.githubusercontent.com/varshamalviya/rohanlab-azureImageBuilder/main/scripts/SetupTeams.ps1"
       }
     }
   }
