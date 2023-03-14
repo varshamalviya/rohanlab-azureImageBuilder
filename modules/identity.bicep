@@ -1,3 +1,4 @@
+param storagePrefix string
 param identityName string
 param location string
 
