@@ -1,3 +1,4 @@
+param storagePrefix string
 param imageDefinitionName string
 param location string
 param computeGalleryName string
